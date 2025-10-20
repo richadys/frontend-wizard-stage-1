@@ -16,6 +16,10 @@ All pages are linked together for smooth navigation and follow the accessibility
 
 ---
 
+- **Live Demo:** [Click here to view the site](https://richadys.github.io/frontend-wizard-stage1/)
+- **GitHub Repository:** [View the code on GitHub](https://github.com/richadys/frontend-wizard-stage1)
+
+
 ## 🧱 Folder Structure
 
 
@@ -72,3 +76,4 @@ Example (inside your navigation bar):
   <a href="about.html">About Me</a>
   <a href="contact.html">Contact Us</a>
 </nav>
+## 🔗 Links
